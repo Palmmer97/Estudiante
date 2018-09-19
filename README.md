@@ -1,14 +1,14 @@
 # Estudiante
 Trabajo con tiempo de ejecucin 
-package t05.alejandrolopezgarcia;
+package t05;
 
 import java.util.Scanner;
 
 /**
  *
- * @author Alejandro Lopez Garcia 
+ * @author 
  */
-public class T05AlejandroLopezGarcia {
+public class T05 {
 
     /**
      * @param args the command line arguments
